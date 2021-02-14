@@ -1,0 +1,14 @@
+[
+	{
+        "ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+	{
+		"ParameterKey": "ImageId1",
+		"ParameterValue": "ami-005bdb005fb00e791"
+	},
+	{
+		"ParameterKey": "ImageId2",
+		"ParameterValue": "ami-0ac73f33a1888c64a"
+	}
+]
