@@ -10,5 +10,13 @@
 	{
 		"ParameterKey": "ImageId2",
 		"ParameterValue": "ami-0ac73f33a1888c64a"
+	},
+	{
+		"ParameterKey": "DBUsername",
+		"ParameterValue": "master"
+	},
+	{
+		"ParameterKey": "DBPassword",
+		"ParameterValue": "ghbdfn01"
 	}
 ]
